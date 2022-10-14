@@ -1,0 +1,15 @@
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.csproj.AssemblyReference.cache
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.AssemblyInfoInputs.cache
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.AssemblyInfo.cs
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.csproj.CoreCompileInputs.cache
+C:\Users\thana\Desktop\Idiacamp\bin\Debug\net6.0\Idiacamp.exe
+C:\Users\thana\Desktop\Idiacamp\bin\Debug\net6.0\Idiacamp.deps.json
+C:\Users\thana\Desktop\Idiacamp\bin\Debug\net6.0\Idiacamp.runtimeconfig.json
+C:\Users\thana\Desktop\Idiacamp\bin\Debug\net6.0\Idiacamp.dll
+C:\Users\thana\Desktop\Idiacamp\bin\Debug\net6.0\Idiacamp.pdb
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.dll
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\refint\Idiacamp.dll
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.pdb
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\Idiacamp.genruntimeconfig.cache
+C:\Users\thana\Desktop\Idiacamp\obj\Debug\net6.0\ref\Idiacamp.dll
